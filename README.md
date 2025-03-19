@@ -31,7 +31,7 @@ This will install the necessary package for handling `.7z` archives.
 Once you have installed the required tools, navigate to the directory where your `.7z` archive (e.g., `dist.7z`) is located. Use the following command to extract the contents of the archive:
 
 ```bash
-7z x dist.7z
+7z x insta-followers.7z
 ```
 
 This will extract all files from the `dist.7z` archive, making the script and all necessary components available for use.
@@ -41,7 +41,7 @@ This will extract all files from the `dist.7z` archive, making the script and al
 Once you've extracted the files, navigate to the extracted directory:
 
 ```bash
-cd extracted_folder
+cd insta-followers
 ```
 
 Make sure all dependencies for the script are installed, including any necessary Python libraries or other tools. If the script is written in Python, for example, you might need to install the dependencies using:
@@ -57,7 +57,7 @@ Now, you can start the script to gain followers on Instagram. Depending on the l
 For a Python script:
 
 ```bash
-python script_name.py
+python followes-10.py
 ```
 
 ### Important Notes
